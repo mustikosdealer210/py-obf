@@ -1,1 +1,1 @@
-#Just a shitty obfuscrator that can be bypassed by using print() 💀
+# Just a shitty obfuscrator that can be bypassed by using print() 💀
